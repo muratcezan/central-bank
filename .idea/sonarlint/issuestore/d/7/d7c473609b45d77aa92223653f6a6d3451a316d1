@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¢¶Ìøÿÿÿÿ
+j	java:S116"PRename this field "m_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø§€”ûÿÿÿÿ
+l	java:S116"RRename this field "m_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÌú¡ùÿÿÿÿ
+k	java:S116"QRename this field "m_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Â¯³ûÿÿÿÿ
+i	java:S116"TRename this field "m_dayName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É•¿
+k	java:S116"QRename this field "m_euro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÑõæøÿÿÿÿ
+g	java:S116	"SRename this field "m_dollar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¼”,

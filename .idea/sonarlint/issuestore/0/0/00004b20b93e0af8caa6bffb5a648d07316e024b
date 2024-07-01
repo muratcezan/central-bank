@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¢¶Ìøÿÿÿÿ8ìğ÷¸€2
+–
+java:S2259R"SA "NullPointerException" could be thrown; "selectedAvailableDays" is nullable here.(¯£Ô‹8ÿ©ëÃş1J$43184979-c889-4480-aa94-23747d15652b
+?
+java:S1118"Hide this public constructor.(Ü­èÂùÿÿÿÿ8÷ğ÷¸€2
+r	java:S106"+Replace this use of System.out by a logger.(¨¤œ¬üÿÿÿÿ8ÿ©ëÃş1J$2360a9d0-7e00-4e2c-9cf4-12b1dec4c137
+u
+java:S1135"2Complete the task associated to this TODO comment.(¿×úË8ªëÃş1J$f7f48d33-94a8-4964-807e-bd76b0385937
+r	java:S106M"+Replace this use of System.out by a logger.(şú±Ÿûÿÿÿÿ8ªëÃş1J$5a3aa9c4-8d25-4e6a-9696-35b130a5b058
+m	java:S106q"+Replace this use of System.out by a logger.(ª¨ñŸ8ªëÃş1J$ee1837ff-d1d6-4bc8-915a-cde2e14fe9e8
+r	java:S106{"+Replace this use of System.out by a logger.(°ÿ£âøÿÿÿÿ8™ªëÃş1J$bc38486f-9015-4e2f-a2b8-698a5bc2b3bd
+s	java:S106"+Replace this use of System.out by a logger.(ìê¯‡ÿÿÿÿÿ8ç¡íÃş1J$c8a17a0f-06a7-4fed-b614-e96fed8245e5

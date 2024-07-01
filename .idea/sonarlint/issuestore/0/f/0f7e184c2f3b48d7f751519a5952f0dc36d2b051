@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¢¶Ìøÿÿÿÿ8Ê¶æ™2J$717e1ffe-dba8-46b0-b7ee-eb9cdcad7619
+œ
+java:S1104"TMake dataList a static final constant or non-public and provide accessors if needed.(Ñ„‘Ûûÿÿÿÿ8Ê¶æ™2J$273a075a-5b8b-4b3c-8a14-8f01a9d6eb1d
+œ	java:S116"URename this field "m_startDay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨±ĞĞûÿÿÿÿ8Ê¶æ™2J$51259069-8854-4942-9c71-6ee4c1f1eb00
+™	java:S116"WRename this field "m_startMonth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÒ»¹8Ê¶æ™2J$b7e0269f-ebde-4a22-94bf-34ff1e7a6ba0
+	java:S116"VRename this field "m_startYear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿ°áÿÿÿÿÿ8Ê¶æ™2J$32b8827f-a5b4-4aea-9c53-1f71c910abf2
+–	java:S116"TRename this field "m_stopDay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠûŞô8Ê¶æ™2J$da551b44-1529-41d3-b5cc-a60dbab0600f
+˜	java:S116"VRename this field "m_stopMonth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÁ–ù8Ê¶æ™2J$3bbd2804-6347-4e53-bac5-c878caffcded
+œ	java:S116"URename this field "m_stopYear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ì®€şÿÿÿÿ8Ê¶æ™2J$dbc463c3-fa98-4965-828b-cbe5ebc5a546
+r	java:S1066"+Replace this use of System.out by a logger.(ãŒ«®ÿÿÿÿÿ8®Ûæ™2J$9a187f04-4a5a-4fad-b0ed-6092104faaa3
+m	java:S106C"+Replace this use of System.out by a logger.(âÚŸÌ8¯Ûæ™2J$58b16ea2-5e4a-48e7-ae13-1c039937695d
+m	java:S106E"+Replace this use of System.out by a logger.(©Ø»—8¯Ûæ™2J$a908a539-460b-41dd-bc6d-3d6f5457d234

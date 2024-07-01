@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¢¶Ìøÿÿÿÿ
+z
+java:S1104	"_Make yearPrevButtonIndex a static final constant or non-public and provide accessors if needed.(«ÈÊÇûÿÿÿÿ
+u
+java:S1104
+"_Make yearNextButtonIndex a static final constant or non-public and provide accessors if needed.(Çé®®
+q
+java:S1104"VMake webSiteURL a static final constant or non-public and provide accessors if needed.(ÿµÍÜûÿÿÿÿ
+n
+java:S1104"SMake offDays a static final constant or non-public and provide accessors if needed.(Öá ªÿÿÿÿÿ
+T
+java:S1444	"9Make this "public static yearPrevButtonIndex" field final(«ÈÊÇûÿÿÿÿ
+O
+java:S1444
+"9Make this "public static yearNextButtonIndex" field final(Çé®®
+@	java:S106"+Replace this use of System.out by a logger.(œ½Ú

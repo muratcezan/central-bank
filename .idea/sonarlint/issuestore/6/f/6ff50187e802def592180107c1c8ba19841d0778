@@ -1,0 +1,12 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûßÎzJ$b93ecbdb-ce43-42c9-be54-b527d0d09795
+q
+java:S1481")Remove this unused "wait" local variable.(¥ºÑëøÿÿÿÿ8İå¹€2J$b7006cf3-23cf-41c9-93ed-11ffae433958
+u
+java:S1481"2Remove this unused "searchResults" local variable.(óİ’8İå¹€2J$1394f164-f564-4955-adce-4b31b6400138
+m	java:S106"+Replace this use of System.out by a logger.(´¡æ°8İå¹€2J$1303bfe3-e6d4-43b7-ab73-7718c00dc1c7
+r	java:S106"+Replace this use of System.out by a logger.(Á›»³øÿÿÿÿ8İå¹€2J$0323d964-e244-4370-b276-7479f6044a84
+m	java:S106"+Replace this use of System.out by a logger.(‘Äø8İå¹€2J$8f80174e-481d-4e34-8382-77d3cbf1b955
+l	java:S106"+Replace this use of System.out by a logger.(ÏßÅh8İå¹€2J$73096166-0c2d-4cfc-906f-643951433268
+m	java:S106"+Replace this use of System.out by a logger.(—è–Ç8İå¹€2J$7de5f0b7-9511-4829-8662-1207fba05dfa
+r	java:S106"+Replace this use of System.out by a logger.(½õŸ÷øÿÿÿÿ8İå¹€2J$1b9c8fdb-493e-401c-a3c9-79baa91fd4b7

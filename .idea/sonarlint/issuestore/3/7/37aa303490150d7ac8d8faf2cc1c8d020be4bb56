@@ -1,0 +1,9 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾şşÿÿÿÿJ$da8ebef3-df7f-4e8f-8b0f-be03207bf82c
+K
+java:S1481")Remove this unused "wait" local variable.(¥ºÑëøÿÿÿÿ8¡½öº€2
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¡½öº€2
+F	java:S106"+Replace this use of System.out by a logger.(º¼ÿL8¡½öº€2
+L	java:S106#"+Replace this use of System.out by a logger.(¼ëÔñıÿÿÿÿ8¡½öº€2
+X	java:S125$"<This block of commented-out lines of code should be removed.(àÙ÷·8¡½öº€2
